@@ -1,0 +1,18 @@
+data/*
+!data/.gitkeep
+
+.ipynb_checkpoints/
+
+__pycache__/
+*.__py[cod]
+
+.venv/
+venv/
+env
+
+.env
+*.env
+
+OS files
+.DS_Store
+Thumbs.db
