@@ -10,3 +10,4 @@ This repository contains a project on the voice pack audit pipeline
 Install the required Python packages with:
 ```bash
 pip install -r requirements.txt
+this project displays a complete data science workflow
